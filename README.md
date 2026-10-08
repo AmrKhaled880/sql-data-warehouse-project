@@ -3,7 +3,7 @@
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
-🏗️ # Data Architecture
+# 🏗️ Data Architecture
 
 <img width="1229" height="867" alt="Arch" src="https://github.com/user-attachments/assets/00d0eda7-71c6-4c72-b8b9-6615de118b53" />
 
@@ -13,7 +13,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 3.Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
-📖 # Project Overview
+# 📖 Project Overview
 
 This project involves:
 
